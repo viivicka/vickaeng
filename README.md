@@ -1,4 +1,6 @@
 # vickaeng
 ## primeira aula de engenharia 3
-## apanho para mexer no code
+## apanhando para mexer no code
 ## o github é confuso igual eu
+## espero melhorar confoeme o uso
+## git é legal depois que você aprende
